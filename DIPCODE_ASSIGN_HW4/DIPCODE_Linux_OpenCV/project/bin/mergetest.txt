@@ -1,0 +1,1 @@
+wheelg_45.jpg wheel_45_test1.jpg 1 0 0 100 100 binaryedge 135 45 

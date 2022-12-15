@@ -1,0 +1,1 @@
+lab3/FLIR1620.jpg FLIR1620_histo.jpg 1 0 0 100 100 otsucv

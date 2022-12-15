@@ -1,0 +1,10 @@
+baboon.pgm baboon_dft.jpg opencv 1 0 0 300 300 dft
+baboon.pgm baboon_invdft.jpg opencv 1 0 0 300 300 invdft
+baboon.pgm baboon_lowpass.jpg opencv 1 0 0 300 300 lowpass 50
+baboon.pgm baboon_highpass.jpg opencv 1 0 0 300 300 highpass 50
+baboon.pgm baboon_edgesharp.jpg opencv 1 0 0 200 200 edgesharp 50 1.5 
+baboon.pgm baboon_edgesmooth.jpg opencv 1 0 0 400 400 edgesmooth 50 1.5 
+11.jpg 11_value_hsvlowpass.jpg opencv 1 0 0 500 300 hsvlowpass_value 30
+11.jpg 11_value_hsvhighpass.jpg opencv 1 0 0 500 300 hsvhighpass_value 30
+11.jpg 11_hue_highpass.jpg opencv 1 0 0 500 300 hsvhighpass_hue 30
+11.jpg 11_sat_highpass.jpg opencv 1 0 0 500 300 hsvhighpass_saturation 30
