@@ -16,6 +16,6 @@
   
  x, y, Sx, Sy are the co-ordinates for the roi region. 
  
- # After modifying the parameters file, you can run the following command 
- ./iptool parameters.txt
+ After modifying the parameters file, you can run the following command 
+   ./iptool parameters.txt
  
